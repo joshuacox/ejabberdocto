@@ -16,7 +16,6 @@ EXPOSE  5280
 
 # Octohost specifics
 # NO_HTTP_PROXY
-# MOUNT_FROM_HOST /exports/armocto/steam /home/steam
 # MOUNT_FROM_HOST /exports/ejabberdocto/database /opt/ejabberd/database 
 # MOUNT_FROM_HOST /exports/ejabberdocto/ssl /opt/ejabberd/ssl
 
