@@ -1,0 +1,2 @@
+# ejabberdocto
+Ejabberd for Octohost
